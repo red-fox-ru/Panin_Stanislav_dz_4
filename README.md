@@ -1,1 +1,3 @@
-Panin_Stanislav_dz_4
+task_2 - Exchange Rates from XML
+
+utils - Module test
